@@ -1,5 +1,5 @@
 # PS5-BackupDB
-Webkit Payload: Dumping all Database files to USB
+PS5 Payload: Dumping all Database files to USB
 
 ![Downloads](https://img.shields.io/github/downloads/Storm21CH/PS5-BackupDB/total)
 
